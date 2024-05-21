@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchDownloaderCore.Tests"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchDownloaderCLI.Tests", "TwitchDownloaderCLI.Tests\TwitchDownloaderCLI.Tests.csproj", "{2AC32E05-56EE-41E2-BAFD-94C3FE900057}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitchDownloaderMauiApp", "TwitchDownloaderMauiApp\TwitchDownloaderMauiApp.csproj", "{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,14 @@ Global
 		{2AC32E05-56EE-41E2-BAFD-94C3FE900057}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2AC32E05-56EE-41E2-BAFD-94C3FE900057}.Release|x64.ActiveCfg = Release|Any CPU
 		{2AC32E05-56EE-41E2-BAFD-94C3FE900057}.Release|x64.Build.0 = Release|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Debug|x64.Build.0 = Debug|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Release|x64.ActiveCfg = Release|Any CPU
+		{83CAA5F9-C550-4358-B6B0-E2A54A1F4DBE}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
